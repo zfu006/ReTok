@@ -121,7 +121,7 @@ bash scripts/reconstruction.sh \
 --gt-npz-path ${GT_VAL_NPZ_PATH}
 ```
 
-For the quantitative reconstruction evaluation, see [Detailed_instructions](Detailed_instructions.md)
+<!-- For the quantitative reconstruction evaluation, see [Detailed_instructions](https://github.com/SilentView/GigaTok/blob/master/Detailed_instructions.md) -->
 
 ### AR Generation
 
@@ -131,7 +131,7 @@ For the quantitative reconstruction evaluation, see [Detailed_instructions](Deta
 wget https://openaipublic.blob.core.windows.net/diffusion/jul-2021/ref_batches/imagenet/256/VIRTUAL_imagenet256_labeled.npz
 ```
 
-For the quantitative evaluation, see [Detailed_instructions](Detailed_instructions.md)
+For the quantitative evaluation, see [Detailed_instructions](https://github.com/SilentView/GigaTok/blob/master/Detailed_instructions.md)
 
 2\. **Calculating gFID**
 
