@@ -1,0 +1,20 @@
+# 权重文件
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.pb
+
+# 数据集与大文件
+*.npz
+dataset/
+VIRTUAL_imagenet256_labeled.npz
+
+# Python & 系统临时文件
+__pycache__/
+*.pyc
+.DS_Store
+
+# 忽略 checkpoints 下的所有内容，只保留文件夹结构
+checkpoints/*
+!checkpoints/.gitkeep
