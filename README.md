@@ -1,4 +1,4 @@
-# Improving Flexible Image Tokenizers for Autoregressive Image Generation
+# [NeurIPS 2026] Improving Flexible Image Tokenizers for Autoregressive Image Generation
 
 
 <div align="center">
